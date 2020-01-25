@@ -1,0 +1,27 @@
+>>>>>>>>>> Informações básicas <<<<<<<<<<<
+
+Git é um sistema de controle de versões, ele documenta e armazena todas as alterações que foram feitas do projeto.
+
+vantagens de usar o git
+
+1º = backup, o github armazena uma copia do seu projeto nas nuvens, parecido com google drive, onde caso ocorra algum problema com o computador na qual esta o projeto, você sempre tem uma cópia do projeto salva.
+
+2º = controle de versões, o git documenta e armazena cada alteração que e feita no código, esta documentação e feita atráves de cammits ( que são descrições de tudo que foi modificado ), no desenvolvimento de um projeto muitas alterações são feitas, e o git permite que você acompanhe estas alterações, podendo recuperar uma versão anterior do seu projeto a qualquer momento.
+
+3º = trabalhar em equipe, um projeto pode ser clonado e trabalhado em equipe, o git simplifica todo esse processo e consegue unir todas as versões e alterações de equipe, formando uma unica versão estável do projeto.
+___________________________________________________________________________________________________________________________
+
+Github é uma espécie de rede social de projetos, onde com o github você pode hospedar e compartilhar o seus projetos, você pode interagir em outros projetos, outros programadores podem colaborar com os seus projetos, e prossível tirar dúvidas, comentar, relatar problemas, tudo dentro do github.
+___________________________________________________________________________________________________________________________
+
+E dentro do diretório ".git" que o conteúdo do projeto será armazenado é identificado
+obs: este repositóro vai guardar uma copia dos arquivos do projeto
+
+dentro do diretório .git existem outros diretórios, dentre eles o diretórios objects que é onde o git irar criar o grafo de commits.
+Uma pasta importante dentro do diretório (.git) e a pasta object, pois e onde o git ira criar o grafo de commits
+
+Grafo de commits o git armazena o conteúdo do projeto, representado as mudanças atráves de um grafo de commits. 
+"Grafo" e uma estrutura que contém objetos relacionados.
+"Commits" são comentários que você escreve sempre que você modifica alguma coisa no seu projeto.
+
+
