@@ -11,6 +11,7 @@ ls = mostra todos os aquivos do diretório
 ls -a = mostra todo o conteúdo oculto
 
 git commit -m "Seu comentário" = para criar um comentário de identificação
+git commit -am = para adicionar o arquivo ao container e ao mesmo tempo criar o commit
 
 git config --global user.email "seu email" = para muder o email por exemplo
 
@@ -18,4 +19,6 @@ git add = para adicionar um ou mais arquivos para o container (.git), onde por e
 
 git log = para exibir o histórico
 git log --oneline = simplifica o hash ( que identifica cada commit )
-git log --graph = mostra a representação do grafo de commit
+git log --graph = mostra a representação do grafo de commit ( onde o "*" representa o nodo, é em vermelho a linha que liga os nodos )
+
+git branch = esse comando identifica o ramo que o projeto se encontra
