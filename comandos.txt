@@ -15,3 +15,5 @@ git commit -m "Seu comentário" = para criar um comentário de identificação
 git config --global user.email "seu email" = para muder o email por exemplo
 
 git add = para adicionar um ou mais arquivos para o container (.git), onde por exemplo você pode digitar = git add " o nome do arquivo (a.txt) ou você pode digitar git add * e adicionar todos os arquivos ao container.
+
+git log = para exibir o histórico

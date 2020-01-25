@@ -1,2 +1,4 @@
 nothing added to commit but untracked files present (use "git add" to track)
 (nada adicionado para confirmar, mas arquivos não rastreados estão presentes (use "git add" para rastrear))
+
+___________________________________________________________________________________________________________________
