@@ -24,4 +24,6 @@ Grafo de commits o git armazena o conteúdo do projeto, representado as mudanças 
 "Grafo" e uma estrutura que contém objetos relacionados.
 "Commits" são comentários que você escreve sempre que você modifica alguma coisa no seu projeto.
 
+Hash e a identificação do commits
+
 

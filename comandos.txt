@@ -17,3 +17,5 @@ git config --global user.email "seu email" = para muder o email por exemplo
 git add = para adicionar um ou mais arquivos para o container (.git), onde por exemplo você pode digitar = git add " o nome do arquivo (a.txt) ou você pode digitar git add * e adicionar todos os arquivos ao container.
 
 git log = para exibir o histórico
+git log --oneline = simplifica o hash ( que identifica cada commit )
+git log --graph = mostra a representação do grafo de commit
