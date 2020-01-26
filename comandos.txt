@@ -22,3 +22,9 @@ git log --oneline = simplifica o hash ( que identifica cada commit )
 git log --graph = mostra a representação do grafo de commit ( onde o "*" representa o nodo, é em vermelho a linha que liga os nodos )
 
 git branch = esse comando identifica o ramo que o projeto se encontra
+
+git checkout "hash" = vai rastrear as mudanças do commit do hash em questão
+git checkout master = para voltar a versão anterior
+
+git diff = ele vai mostrar as últimas alterações feitas antes do commit
+

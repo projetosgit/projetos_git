@@ -25,5 +25,8 @@ Grafo de commits o git armazena o conteúdo do projeto, representado as mudanças 
 "Commits" são comentários que você escreve sempre que você modifica alguma coisa no seu projeto.
 
 Hash e a identificação do commits
+___________________________________________________________________________________________________________________________
 
+( HEAD > MASTER )
+E pelo head que a gente consegue rastrear os commits e recuperar uma versão anterior do projeto.
 
