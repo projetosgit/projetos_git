@@ -26,5 +26,5 @@ git branch = esse comando identifica o ramo que o projeto se encontra
 git checkout "hash" = para rastrear uma versão anterior do projeto
 git checkout master = para retornar para o último commit
 
-git diff = ele vai mostrar as últimas alterações feitas antes do commit
+git diff = ele vai mostrar as últimas alterações feitas antes do commit, e caso os arquivos tenham sido adicionados ao container, o comando diff não ira mostrar nada na tela
 
