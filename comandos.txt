@@ -28,3 +28,5 @@ git checkout master = para retornar para o último commit
 
 git diff = ele vai mostrar as últimas alterações feitas antes do commit, e caso os arquivos tenham sido adicionados ao container, o comando diff não ira mostrar nada na tela
 
+git reset --hard "hash" = para remover um commit
+
