@@ -23,8 +23,8 @@ git log --graph = mostra a representação do grafo de commit ( onde o "*" represe
 
 git branch = esse comando identifica o ramo que o projeto se encontra
 
-git checkout "hash" = vai rastrear as mudanças do commit do hash em questão
-git checkout master = para voltar a versão anterior
+git checkout "hash" = para rastrear uma versão anterior do projeto
+git checkout master = para retornar para o último commit
 
 git diff = ele vai mostrar as últimas alterações feitas antes do commit
 
