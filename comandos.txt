@@ -1,3 +1,5 @@
+Quando o git bash travar ( aparecer END ) bastar apertar "Q", que ele retorna ao git bash
+
 rm -r  = para remover um diretório
 
 touch  = para criar arquivos (por exemplo, touch a.txt b.txt ) tudo na mesma linha, onde você pode criar mais de um arquvio com o comando touch.
@@ -20,11 +22,13 @@ git add = para adicionar um ou mais arquivos para o container (.git), onde por e
 git log = para exibir o histórico
 git log --oneline = simplifica o hash ( que identifica cada commit )
 git log --graph = mostra a representação do grafo de commit ( onde o "*" representa o nodo, é em vermelho a linha que liga os nodos )
+git log --oneline --graph --all = mostra todas as ramificações
 
 git branch = esse comando identifica o ramo que o projeto se encontra
 
 git checkout "hash" = para rastrear uma versão anterior do projeto
 git checkout master = para retornar para o último commit
+git checkout -b "nome" = para criar uma nova ramificação ( onde todos os commits feito a partir da criação de um novo vão ser atribuidos a esse novo ramo )
 
 git diff = ele vai mostrar as últimas alterações feitas antes do commit, e caso os arquivos tenham sido adicionados ao container, o comando diff não ira mostrar nada na tela
 
