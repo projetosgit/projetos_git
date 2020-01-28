@@ -34,3 +34,4 @@ git diff = ele vai mostrar as últimas alterações feitas antes do commit, e caso 
 
 git reset --hard "hash" = para remover um commit
 
+git merge "nome do ramo" = para unir uma ou mais ramos ( OBS: para realizar essa união e preciso estar no ramo master )
