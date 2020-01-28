@@ -3,3 +3,4 @@ Teste
 testando nova
 
 Comentário para teste no ramo master
+Linha adicionada para realizar o teste no novo ramo
